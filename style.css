@@ -6,7 +6,7 @@ body
 	background-size:auto;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-attachment: auto;
+	background-attachment: fixed;
 }
 form
 {
